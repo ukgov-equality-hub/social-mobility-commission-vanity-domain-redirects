@@ -3,13 +3,13 @@
         {
             "domain": "socialmobilitycommission.com",
             "sub_domains": ["www"]
-        }
-    ],
-    "domain_names_for_later": [
+        },
         {
             "domain": "socialmobilitycommission.org",
             "sub_domains": ["www"]
-        },
+        }
+    ],
+    "domain_names_for_later": [
         {
             "domain": "socialmobilitycommission.co.uk",
             "sub_domains": ["www"]
