@@ -1,0 +1,24 @@
+{
+    "domain_names": [
+        {
+            "domain": "socialmobilitycommission.org",
+            "sub_domains": ["www"]
+        },
+        {
+            "domain": "socialmobilitycommission.com",
+            "sub_domains": ["www"]
+        },
+        {
+            "domain": "socialmobilitycommission.co.uk",
+            "sub_domains": ["www"]
+        }
+    ],
+    "redirects": [
+        {
+            "from": "/ChildsPlay",
+            "to": "https://socialmobility.independent-commission.uk/itschildsplay",
+            "case_sensitive": false
+        }
+    ],
+    "redirect_everything_else_to": "https://socialmobility.independent-commission.uk/"
+}
